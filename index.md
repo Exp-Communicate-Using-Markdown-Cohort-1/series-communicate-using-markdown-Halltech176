@@ -3,3 +3,8 @@
 ```
 npm start
 ```
+### What I have learnt so far in this course
+- [ ] How to add a title text
+- [ ] How to add an image to my markdown code
+- [ ] How to add a code block
+- [ ] And currently learning how to add a task list
